@@ -9,5 +9,5 @@ A simple Python script that downloads the latest CMS Hospital datasets from data
 - Rotating log files
 
 ## Requirements
-pandas
-requests
+- pandas
+- requests
