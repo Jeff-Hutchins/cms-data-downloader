@@ -18,7 +18,7 @@ A simple Python script that downloads the latest CMS Hospital datasets from data
 - cd cms-data-downloader
 - pip install -r requirements.txt
 
-## Automation – Daily Scheduled Runs
+# Automation – Daily Scheduled Runs
 
 To run the script automatically every day (example: at 3:00 AM), use one of these methods.
 
