@@ -13,10 +13,11 @@ A simple Python script that downloads the latest CMS Hospital datasets from data
 - See `requirements.txt`
 
 ## Installation
-Using Bash
+```bash
 - git clone https://github.com/Jeff-Hutchins/cms-data-downloader.git
 - cd cms-data-downloader
 - pip install -r requirements.txt
+```
 
 ## Automation – Daily Scheduled Runs
 
@@ -45,3 +46,4 @@ If you have Windows Subsystem for Linux (WSL) installed (e.g. Ubuntu):
 2. Install cron if needed:
    ```bash
    sudo apt update && sudo apt install cron
+   ```
