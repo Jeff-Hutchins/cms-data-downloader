@@ -14,9 +14,9 @@ A simple Python script that downloads the latest CMS Hospital datasets from data
 
 ## Installation
 ```bash
-- git clone https://github.com/Jeff-Hutchins/cms-data-downloader.git
-- cd cms-data-downloader
-- pip install -r requirements.txt
+git clone https://github.com/Jeff-Hutchins/cms-data-downloader.git
+cd cms-data-downloader
+pip install -r requirements.txt
 ```
 
 ## Automation – Daily Scheduled Runs
